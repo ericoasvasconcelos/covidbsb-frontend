@@ -1,6 +1,6 @@
 applications:
-- name: covid-assistant-simple
+- name: covid-bsb-leo01
   command: npm start
   path: .
-  memory: 256M
+  memory: 64M
   instances: 1

@@ -73,7 +73,7 @@ var Api = (function() {
             'generic': [
               {
                 'response_type': 'text',
-                'text': 'I\'m having trouble connecting to the server, please refresh the page'
+                'text': 'Estou com dificuldades de me conectar ao servidor. Por favor, atualize a página.'
               }
             ],
           }
